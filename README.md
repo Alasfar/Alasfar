@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alasfar
+- 👋 Hi, I’m @Ridwan
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning R programming Language
 - 💞️ I’m looking to collaborate on Data Science
